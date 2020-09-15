@@ -17,7 +17,7 @@ public class DemoApplicationTests {
 
     @Autowired
     private UserMapper userMapper;
-
+	//1
     //查询user表所有数据
     @Test
     public void findAll() {
